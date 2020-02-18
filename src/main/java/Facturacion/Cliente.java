@@ -16,7 +16,8 @@ public class Cliente {
     }
 
     public String getDatosCliente() {
-        return "";
+        String caca = "me hice caca seca"
+        return caca;
 
     }
 
